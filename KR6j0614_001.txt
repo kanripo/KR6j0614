@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:36:19.055384
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:38
 #+TITLE: 佛說宿命智陀羅尼
 #+PROPERTY: CBETA_ID T21n1382
 #+PROPERTY: ID KR6j0614
