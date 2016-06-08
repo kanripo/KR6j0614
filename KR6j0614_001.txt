@@ -1,23 +1,21 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:36:19.055384
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:38
 #+TITLE: 佛說宿命智陀羅尼
 #+PROPERTY: CBETA_ID T21n1382
 #+PROPERTY: ID KR6j0614
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 21, No. 1382
 #+PROPERTY: VOL 21
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0614_T_000-0904a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0614_T_001-0904a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1382¶
-
- 佛說宿命智陀羅尼¶
+No. 1382¶
+佛說宿命智陀羅尼¶
 ¶
-西天譯經三藏朝散大夫試光祿卿¶
-明教大師臣法賢奉　詔譯¶
+西天譯經三藏朝散大夫試光祿卿明教大師臣法賢奉　詔譯¶
 
 那謨(引)婆誐嚩帝(引)阿芻毘夜(二合引)野(一)怛他(引)¶
 誐多(引)野(二)阿囉曷(二合)帝(引)三藐訖三(二合)沒¶
